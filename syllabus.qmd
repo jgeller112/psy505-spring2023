@@ -1,0 +1,49 @@
+---
+title: "Syllabus"
+page-layout: full
+---
+
+# Objectives
+
+Psychological methods keep evolving: psychology researchers constantly adopt new statistical methods, computational tools, and research practices. This course introduces the latest advances in research methods in psychological science through a series of discussions, tutorials, and seminars. Lectures are generally given by a guest speaker who introduces methodological and statistical issues relevant to psychology research. Tutorials provide students with the necessary skills to build reproducible and transparent research programs. For instance, students learn how to use R, RMarkdown and Git/GitHub, or how to preregister their studies. Finally, students take part in seminars, in which they discuss timely topics in psychological methods (e.g., reproducibility, transparency, pre-registration).
+
+\vspace{.75cm}
+
+# Prerequisites
+
+This is a graduate-level course. Any graduate students in psychology can attend.
+
+\vspace{.75cm}
+
+# Class Format
+
+We will meet once a week throughout the semester. 
+
+-   **Guest Seminars.** Students will attend a series of lectures during the semester. Lectures may introduce a recent methodological contribution or discuss a controversial and easily overlooked issue regarding the application or interpretation of statistics. Lectures will be given by guest speakers who are expert in the topic.
+
+-   **Tutorials.** Students will learn skills to build reproducible and transparent research programs. These tutorials may teach students how to preregister their studies, run power analyses, and organize their code with Notebooks). Tutorials may be given by guest speakers who are expert in the topic.
+
+\vspace{.75cm}
+
+# Readings
+
+Much of the material needed for the course will be available on Canvas. I will also post it on the course website and Canvas. 
+
+\vspace{.75cm}
+
+# Attendance Policy
+
+Attendance and active participation in each class is required.
+
+# Technology
+
+It is expected that you will bring your laptop to class. Please try to keep it class related. 
+
+# Grading
+
+Grades will be based on attendance. Come to the workshops/talks and engage with the material at the appropiate level, you will get an A. 
+
+# Schedule
+
+See [schedule](schedule.qmd)
+

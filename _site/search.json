@@ -1,0 +1,457 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Issues and Practices",
+    "section": "",
+    "text": "Instructor\n\n   Dr. Jason Geller\n   325 PSH\n   jg9120@princeton.edu\n   jgeller_phd\n   Schedule an appointment\n\n\n\nCourse details\n\n   Tuesdays\n   Janurary 31–April 25, 2023\n   11:00 AM –1:00 PM\n   A03\n\n\n\nContacting me\nE-mail is best way to get in contact with me. I will try to respond to all course-related e-mails within 24 hours (really), but also remember that life can be busy and chaotic for everyone (including me!), so if I don’t respond right away, don’t worry!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Here’s your roadmap for the semester!\n\n\n Readings should be completed before each class session\n\n\n Slides and other class materials will be added on the day of class\n\n\n Assignments are due at noon on the day they are due (unless otherwise stated)\n\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDay\nSpeaker\nDetails\n\n\n\n\n\n1\n1/31/23\nPatrick Curran, Professor of Psychology, University of North Carolina at Chapel Hill\n\n\n\n\n2\n2/7/23\nDaniel Mirman, Associate Professor, University of Edinburgh\n\n\n\n\n3\n2/14/23\n\n\n\n\n\n4\n2/21/23\nJoão Veríssimo, Assistant Professor in Laboratory of Psycholinguistics, University of Lisbon\n\n\n\n\n5\n2/28/23\nPaul Bürkner, Junior Research Group Leader, Bayesian Statistics, Cluster of Excellence SimTech, University of Stuttgart\n\n\n\n\n6\n3/7/23\nChelsea Parlett-Pelleriti, Assistant Professor, Chapman University\n\n\n\n\n7\n3/14/23\nNo Speaker - Spring Break\n\n\n\n\n8\n3/21/23\nDaniel S. Quintana, Senior Researcher, University of Oslo\n\n\n\n\n9\n3/28/23\nNo Speaker\n\n\n\n\n10\n4/4/23\nPablo Gomez, Associate Professor, California State University, San Bernardino\n\n\n\n\n11\n4/11/23\n\n\n\n\n\n12\n4/18/23\n\n\n\n\n\n13\n4/25/23\n\n\n\n\n\n14"
+  },
+  {
+    "objectID": "content/01-content.html",
+    "href": "content/01-content.html",
+    "title": "Evaluation and the causal revolution",
+    "section": "",
+    "text": "The syllabus, content, examples, and assignments pages for this class\n Chapter 1 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapters 1 and 2 in The Effect (Huntington-Klein 2021)\n DJ Patil, “What Makes a Radical and Revolutionary Technology?”\n\n(DJ Patil is the former Chief Data Scientist of the United States under President Obama. He gave this forum address at Brigham Young University on February 13, 2018.)\n\n Stephen Goldsmith, “Next Generation of Public Employees Must Understand Data and Policy”\n Hadley Wickham, “Data Science: How is it Different To Statistics?”"
+  },
+  {
+    "objectID": "content/01-content.html#slides",
+    "href": "content/01-content.html#slides",
+    "title": "Evaluation and the causal revolution",
+    "section": "Slides",
+    "text": "Slides\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. That’s not the case this semester, since we’re using the new The Effect book, which replaces both ’Metrics Matter and the Mixtape. So ignore that part of the video. The slides are updated with the correct books, though: see here.\n\n\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nData science and public service\n\n\nEvidence, evaluation, and causation (1)\n\n\nEvidence, evaluation, and causation (2)\n\n\nClass details\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/01-content.html#videos",
+    "href": "content/01-content.html#videos",
+    "title": "Evaluation and the causal revolution",
+    "section": "Videos",
+    "text": "Videos\n\n\n\n\n\n\nWarning\n\n\n\nImportant!!: In the “Class details” video, I say that there are three books for the class: the World Bank evaluation book, ’Metrics Matter, and Causal Inference: The Mixtape. That’s not the case this semester, since we’re using the new The Effect book, which replaces both ’Metrics Matter and the Mixtape. So ignore that part of the video. The slides are updated with the correct books, though: see here.\n\n\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nData science and public service\nEvidence, evaluation, and causation (1)\nEvidence, evaluation, and causation (2)\nClass details\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/01-content.html#in-class-stuff",
+    "href": "content/01-content.html#in-class-stuff",
+    "title": "Evaluation and the causal revolution",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 1 in-person slides (PDF)\n\nRStudio labs:\n\nRStudio.cloud project\nProject .zip file\nLab slides 1: Markdown and universal writing (PDF)\nLab slides 2: Getting started with R and RStudio (PDF)\nLab slides 3: Data basics (PDF)\nLab slides 4: Visualize data with ggplot2 (PDF)\nLab slides 5: Transform data with dplyr (PDF)"
+  },
+  {
+    "objectID": "content/02-content.html",
+    "href": "content/02-content.html",
+    "title": "Regression and inference",
+    "section": "",
+    "text": "Chapters 3 and 4 in The Effect (Huntington-Klein 2021)"
+  },
+  {
+    "objectID": "content/02-content.html#recommended-readings",
+    "href": "content/02-content.html#recommended-readings",
+    "title": "Regression and inference",
+    "section": "Recommended readings",
+    "text": "Recommended readings\nLook through your notes on regression from your last stats class. Also, you can skim through these resources:\n\n 5.1–5.4 in ModernDive (Ismay and Kim 2019)\n 6.1–6.4 in ModernDive (Ismay and Kim 2019)\n 7.1–7.3 in OpenIntro Statistics (Diez, Barr, and Çetinkaya-Rundel 2017)\n 8.1 in OpenIntro Statistics (Diez, Barr, and Çetinkaya-Rundel 2017)\n\nWe’ll review all this regression stuff in the videos, so don’t panic if this all looks terrifying! Also, take advantage of the videos that accompany the OpenIntro chapters. And also, the OpenIntro chapters are heavier on the math—don’t worry if you don’t understand everything."
+  },
+  {
+    "objectID": "content/02-content.html#slides",
+    "href": "content/02-content.html#slides",
+    "title": "Regression and inference",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nDrawing lines\n\n\nLines, Greek, and regression\n\n\nNull worlds and statistical significance\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/02-content.html#videos",
+    "href": "content/02-content.html#videos",
+    "title": "Regression and inference",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nDrawing lines\nLines, Greek, and regression\nNull worlds and statistical significance\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/02-content.html#in-class-stuff",
+    "href": "content/02-content.html#in-class-stuff",
+    "title": "Regression and inference",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 2 FAQ slides (PDF)\nErrors vs. warnings vs. messages (i.e. what to do when R shows you red text)\nR Markdown examples:\n\nExample R Markdown file used as a code-through or step-by-step teaching document:\n\nLots of blog posts here\nJulia Silge, “Modeling human/computer interactions on Star Trek from #TidyTuesday with workflowsets”\nBob Rudis, “Some Covid Donuts To End The Week”\nHolger K. von Jouanne-Diedrich, “The “Youth Bulge” of Afghanistan: The Hidden Force behind Political Instability”\n\nExample R Markdown file used as a publicly-consumable document:\n\nClick on the “Manuscript” menu item at this site\nSee the Rmd file here\n\n\n\nHands-on R materials:\n\nRStudio.cloud project\nProject .zip file\nGapminder data\nLab slides 1: Markdown and universal writing (PDF)\nLab slides 2: Getting started with R and RStudio (PDF)\nLab slides 3: Data basics (PDF)\nLab slides 4: Visualize data with ggplot2 (PDF)\nLab slides 5: Transform data with dplyr (PDF)\n restaurant_inspections.csv"
+  },
+  {
+    "objectID": "content/02-content.html#bayesian-statistics-resources",
+    "href": "content/02-content.html#bayesian-statistics-resources",
+    "title": "Regression and inference",
+    "section": "Bayesian statistics resources",
+    "text": "Bayesian statistics resources\nIn class I briefly mentioned the difference between frequentist and Bayesian statistics. You can see a bunch of additional resources and examples of these two approaches to statistics here. This huge blog post also shows how to do multilevel models with Bayesian models."
+  },
+  {
+    "objectID": "content/03-content.html",
+    "href": "content/03-content.html",
+    "title": "Theories of change and logic models",
+    "section": "",
+    "text": "Chapter 2 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapter 2 in Evaluation: A Systematic Approach (Rossi, Lipsey, and Henry 2019). This is available on iCollege.\n Chapter 3 in Evaluation: A Systematic Approach (Rossi, Lipsey, and Henry 2019). This is available on iCollege."
+  },
+  {
+    "objectID": "content/03-content.html#slides",
+    "href": "content/03-content.html#slides",
+    "title": "Theories of change and logic models",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nReproducibility\n\n\nProgram theories\n\n\nLogic models & results chains\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/03-content.html#videos",
+    "href": "content/03-content.html#videos",
+    "title": "Theories of change and logic models",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nReproducibility\nProgram theories\nLogic models & results chains\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/04-content.html",
+    "href": "content/04-content.html",
+    "title": "Measurement and DAGs",
+    "section": "",
+    "text": "The witch trial scene from Monty Python and the Holy Grail\n Chapter 5 in Evaluation: A Systematic Approach (Rossi, Lipsey, and Henry 2019). This is available on iCollege.\n Chapter 5 in The Effect (Huntington-Klein 2021)\n\n\n\n\n\n Julia M. Rohrer, “Thinking Clearly About Correlations and Causation: Graphical Causal Models for Observational Data” (Rohrer 2018) This will be posted on iCollege.\n Section 2 only (pp. 4–11) from Julian Schuessler and Peter Selb, “Graphical Causal Models for Survey Inference.” (Schuessler and Selb 2019) The PDF is available at SocArXiv.\n Chapters 6 and 7 in The Effect (Huntington-Klein 2021)\n\n\n\n\n\nThe example page on DAGs shows how to draw and analyze DAGs with both dagitty.net and R + ggdag"
+  },
+  {
+    "objectID": "content/04-content.html#slides",
+    "href": "content/04-content.html#slides",
+    "title": "Measurement and DAGs",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nAbstraction, stretching, and validity\n\n\nCausal models\n\n\nPaths, doors, and adjustment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/04-content.html#videos",
+    "href": "content/04-content.html#videos",
+    "title": "Measurement and DAGs",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nAbstraction, stretching, and validity\nCausal models\nPaths, doors, and adjustment\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/04-content.html#in-class-stuff",
+    "href": "content/04-content.html#in-class-stuff",
+    "title": "Measurement and DAGs",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 4 FAQ slides (PDF)"
+  },
+  {
+    "objectID": "content/05-content.html",
+    "href": "content/05-content.html",
+    "title": "DAGs and potential outcomes",
+    "section": "",
+    "text": "Prologue and at least one of the four acts from This American Life, “Gardens of Branching Paths,” episode #691, January 10, 2020\n Chapter 3 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapters 8, 9, and 10 in The Effect (Huntington-Klein 2021)\n\n\n\n\nThe example page on potential outcomes, ATEs, and CATEs shows how to use R to calculate ATEs and CATEs"
+  },
+  {
+    "objectID": "content/05-content.html#slides",
+    "href": "content/05-content.html#slides",
+    "title": "DAGs and potential outcomes",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\ndo()ing observational causal inference\n\n\nPotential outcomes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/05-content.html#videos",
+    "href": "content/05-content.html#videos",
+    "title": "DAGs and potential outcomes",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\ndo()ing observational causal inference\nPotential outcomes\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/05-content.html#in-class-stuff",
+    "href": "content/05-content.html#in-class-stuff",
+    "title": "DAGs and potential outcomes",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 5 FAQ slides (PDF)\n\n\nConfounding, unblocked\n\n\n\n\n\n\n\nConfounding, blocked\n\n\n\n\n\n\n\nMediation"
+  },
+  {
+    "objectID": "content/06-content.html",
+    "href": "content/06-content.html",
+    "title": "Threats to validity",
+    "section": "",
+    "text": "Guido Imbens, “Statistical Significance, p-Values, and the Reporting of Uncertainty” (Imbens 2021). This is available on iCollege, and it’s also free here.\n Randall Munroe, “Significant”\n Alexander Coppock, “10 Things to Know About Statistical Power”\n Play around with FiveThirtyEight, “Hack Your Way To Scientific Glory”\n Chapter 9 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapter 11 in The Effect (Huntington-Klein 2021)"
+  },
+  {
+    "objectID": "content/06-content.html#slides",
+    "href": "content/06-content.html#slides",
+    "title": "Threats to validity",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nConstruct validity\n\n\nStatistical conclusion validity\n\n\nInternal validity\n\n\nExternal validity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/06-content.html#videos",
+    "href": "content/06-content.html#videos",
+    "title": "Threats to validity",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nConstruct validity\nStatistical conclusion validity\nInternal validity\nExternal validity\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/06-content.html#in-class-stuff",
+    "href": "content/06-content.html#in-class-stuff",
+    "title": "Threats to validity",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 6 FAQ slides (PDF)\nZilch!\n Live R script\n restaurant_inspections.csv"
+  },
+  {
+    "objectID": "content/07-content.html",
+    "href": "content/07-content.html",
+    "title": "Randomization and matching",
+    "section": "",
+    "text": "Andrew Heiss, “Causal Inference,” Chapter 10 in R for Political Data Science: A Practical Guide (2020) (Ignore the exercises!). Get the PDF here.\n Chapter 4 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapters 11 and 13 in The Effect (Huntington-Klein 2021). Focus especially on section 13.3 about standard errors. And skim chapter 11; it’s an overview of regression, which we reviewed in session 2, but it also applies the language of DAGs to regression, so look for that specifically as you read.\n Planet Money, “Moving To Opportunity?,” episode 937\n Aaron Carroll, “Workplace Wellness Programs Don’t Work Well. Why Some Studies Show Otherwise,” The Upshot, August 6, 2018\n\n\n\n\nThe example page on RCTs shows how to use R to analyze and estimate causal effects from RCTs\nThe example page on matching and inverse probability weighting shows how to use R to close backdoors, make adjustments, and find causal effects from observational data using matching and inverse probability weighting"
+  },
+  {
+    "objectID": "content/07-content.html#slides",
+    "href": "content/07-content.html#slides",
+    "title": "Randomization and matching",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nThe magic of randomization\n\n\nHow to analyze RCTs\n\n\nThe “gold” standard\n\n\nAdjustment with matching\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/07-content.html#videos",
+    "href": "content/07-content.html#videos",
+    "title": "Randomization and matching",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nThe magic of randomization\nHow to analyze RCTs\nThe “gold” standard\nAdjustment with matching\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/07-content.html#in-class-stuff",
+    "href": "content/07-content.html#in-class-stuff",
+    "title": "Randomization and matching",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 7 FAQ slides (PDF)\nIn-class .zip file\nRStudio.cloud project\n\nOther helpful resources:\n\n“The Impact of Mask Distribution and Promotion on Mask Uptake and COVID-19 in Bangladesh”\nMacartan Humphreys, “I saw your RCT and I have some worries! FAQs”\nDarren Dahly, “Out of balance: A perspective on covariate adjustment in randomized experiments”\nBayesian stats and decison making\nStandard errors\nUnobserved confounding and sensitivity analysis"
+  },
+  {
+    "objectID": "content/08-content.html",
+    "href": "content/08-content.html",
+    "title": "Difference-in-differences I",
+    "section": "",
+    "text": "Chapter 7 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapter 18 in The Effect (Huntington-Klein 2021)"
+  },
+  {
+    "objectID": "content/08-content.html#slides",
+    "href": "content/08-content.html#slides",
+    "title": "Difference-in-differences I",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nQuasi-experiments\n\n\nInteractions & regression\n\n\nTwo wrongs make a right\n\n\nDiff-in-diff assumptions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/08-content.html#videos",
+    "href": "content/08-content.html#videos",
+    "title": "Difference-in-differences I",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nQuasi-experiments\nInteractions & regression\nTwo wrongs make a right\nDiff-in-diff assumptions\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/08-content.html#in-class-stuff",
+    "href": "content/08-content.html#in-class-stuff",
+    "title": "Difference-in-differences I",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 8 FAQ slides (PDF)\nSession 8 R code (on RStudio.cloud)"
+  },
+  {
+    "objectID": "content/09-content.html",
+    "href": "content/09-content.html",
+    "title": "Difference-in-differences II",
+    "section": "",
+    "text": "This session is a continuation of session 8."
+  },
+  {
+    "objectID": "content/09-content.html#in-class-stuff",
+    "href": "content/09-content.html#in-class-stuff",
+    "title": "Difference-in-differences II",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nSession 9 FAQ slides (PDF)\nSession 8 R code (from last week) (on RStudio.cloud)\n\nAnd here are some useful blog posts and examples of the stuff we talked about today:\n\nHow random effects work\nTWFE diagnostics\nSensitivity analysis for unobserved confounding"
+  },
+  {
+    "objectID": "content/10-content.html",
+    "href": "content/10-content.html",
+    "title": "Regression discontinuity I",
+    "section": "",
+    "text": "Chapter 6 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapter 20 in The Effect (Huntington-Klein 2021)\n\n\n\n\nThe example page on regression discontinuity shows how to use R to analyze and estimate causal effects with regression discontinuity"
+  },
+  {
+    "objectID": "content/10-content.html#slides",
+    "href": "content/10-content.html#slides",
+    "title": "Regression discontinuity I",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nArbitrary cutoffs and causal inference\n\n\nDrawing lines and measuring gaps\n\n\nMain RDD concerns\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/10-content.html#videos",
+    "href": "content/10-content.html#videos",
+    "title": "Regression discontinuity I",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nArbitrary cutoffs and causal inference\nDrawing lines and measuring gaps\nMain RDD concerns\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/10-content.html#in-class-stuff",
+    "href": "content/10-content.html#in-class-stuff",
+    "title": "Regression discontinuity I",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nWeek 10 FAQ slides (PDF)\nWeek 10 R code (on RStudio.cloud)"
+  },
+  {
+    "objectID": "content/11-content.html",
+    "href": "content/11-content.html",
+    "title": "Instrumental variables I",
+    "section": "",
+    "text": "Chapter 5 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapter 19 in The Effect (Huntington-Klein 2021)\n\n\n\n\nThe example page on instrumental variables shows how to use R to analyze and estimate causal effects with instrumental variables"
+  },
+  {
+    "objectID": "content/11-content.html#slides",
+    "href": "content/11-content.html#slides",
+    "title": "Instrumental variables I",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nEndogeneity and exogeneity\n\n\nInstruments\n\n\nUsing instruments\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/11-content.html#videos",
+    "href": "content/11-content.html#videos",
+    "title": "Instrumental variables I",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nEndogeneity and exogeneity\nInstruments\nUsing instruments\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/11-content.html#in-class-stuff",
+    "href": "content/11-content.html#in-class-stuff",
+    "title": "Instrumental variables I",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nWeek 11 FAQ slides (PDF)\nWeek 11 R code (on RStudio.cloud)"
+  },
+  {
+    "objectID": "content/12-content.html",
+    "href": "content/12-content.html",
+    "title": "Instrumental variables II + Regression discontinuity II",
+    "section": "",
+    "text": "The example page on complier average causal effects shows how to use R to disentangle complier average causal effects\nThe example page on fuzzy regression discontinuity shows how to use R to use instrumental variables in fuzzy regression discontinuity, both parametrically and nonparametrically"
+  },
+  {
+    "objectID": "content/12-content.html#slides",
+    "href": "content/12-content.html#slides",
+    "title": "Instrumental variables II + Regression discontinuity II",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nTreatment effects and compliance\n\n\nRandomized promotion\n\n\nFuzzy regression discontinuity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/12-content.html#videos",
+    "href": "content/12-content.html#videos",
+    "title": "Instrumental variables II + Regression discontinuity II",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nTreatment effects and compliance\nRandomized promotion\nFuzzy regression discontinuity\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/12-content.html#in-class-stuff",
+    "href": "content/12-content.html#in-class-stuff",
+    "title": "Instrumental variables II + Regression discontinuity II",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nWeek 12 FAQ slides (PDF)\n Live R script"
+  },
+  {
+    "objectID": "content/13-content.html",
+    "href": "content/13-content.html",
+    "title": "Choosing and planning ethical evaluations",
+    "section": "",
+    "text": "“Generating random numbers”\n “The ultimate guide to generating synthetic data for causal inference”\n Paul Hünermund and Beyers Louw, “On the Nuisance of Control Variables in Regression Analysis” (Hünermund and Louw 2020) (click on the PDF link in the right sidebar)\n “Types of Evaluation,” National Center for HIV/AIDS, Viral Hepatitis, STD, and TB Prevention, Centers for Disease Control (CDC)\n Chapters 11–13 in Impact Evaluation in Practice (Gertler et al. 2016)\n Chapter 15 in The Effect (Huntington-Klein 2021) (skim this)"
+  },
+  {
+    "objectID": "content/13-content.html#slides",
+    "href": "content/13-content.html#slides",
+    "title": "Choosing and planning ethical evaluations",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nTypes of evaluations\n\n\nModel- and design-based inference\n\n\nEthics and open science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/13-content.html#videos",
+    "href": "content/13-content.html#videos",
+    "title": "Choosing and planning ethical evaluations",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nTypes of evaluations\nModel- and design-based inference\nEthics and open science\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "content/13-content.html#in-class-stuff",
+    "href": "content/13-content.html#in-class-stuff",
+    "title": "Choosing and planning ethical evaluations",
+    "section": "In-class stuff",
+    "text": "In-class stuff\nHere are all the materials we’ll use in class:\n\nWeek 13 FAQ slides (PDF)\n Live R script"
+  },
+  {
+    "objectID": "content/14-content.html",
+    "href": "content/14-content.html",
+    "title": "Ethics, stories, and curiosity",
+    "section": "",
+    "text": "This looks like a lot, but most of these are quite short!\n\n\n\n Miguel A. Hernán, “The C-Word: Scientific Euphemisms Do Not Improve Causal Inference From Observational Data” (Hernán 2018)\n Hannah Fresques and Meg Marco, “‘Your Default Position Should Be Skepticism’ and Other Advice for Data Journalists From Hadley Wickham,” ProPublica, June 10, 2019\n\n\n\n\n\n Chapter 14 in Impact Evaluation in Practice (Gertler et al. 2016)\n Martin Krzywinski and Alberto Cairo, “Storytelling”\n Ben Wellington, “Making data mean more through storytelling”\n Will Schoder, “Every Story is the Same”\n\n\n\n\nKeep in mind throughout all these readings that an “algorithm” in these contexts is typically some fancy type of regression model where the outcome variable is something binary like “Safe babysitter/unsafe babysitter,” “Gave up seat in past/didn’t give up seat in past”, or “Violated probation in past/didn’t violate probation in past”, and the explanatory variables are hundreds of pieces of data that might predict those outcomes (social media history, flight history, race, etc.).\nData scientists build a (sometimes proprietary and complex) model based on existing data, plug in values for any given new person, multiply that person’s values by the coefficients in the model, and get a final score in the end for how likely someone is to be a safe babysitter or how likely someone is to return to jail.\n\n DJ Patil, “A Code of Ethics for Data Science” (if your’re interested in this, also check out Mike Loukides, Hilary Mason, and DJ Patil, Ethics and Data Science\n “AI in 2018: A Year in Review”\n “How Big Data Is ‘Automating Inequality’”\n “In ‘Algorithms of Oppression,’ Safiya Noble finds old stereotypes persist in new media”\n 99% Invisible, “The Age of the Algorithm”: Note that this is a podcast, or a 20ish minute audio story. Listen to this.\n On the Media, “Biased Algorithms, Biased World”\n “Wanted: The ‘perfect babysitter.’ Must pass AI scan for respect and attitude.”\n “Companies are on the hook if their hiring algorithms are biased”\n “Courts use algorithms to help determine sentencing, but random people get the same results”\n David Heinemeier Hansson’s rant on the Apple Card\n\nAnd Jamie Heinemeier Hansson’s response"
+  },
+  {
+    "objectID": "content/14-content.html#slides",
+    "href": "content/14-content.html#slides",
+    "title": "Ethics, stories, and curiosity",
+    "section": "Slides",
+    "text": "Slides\nThe slides for today’s lesson are available online as an HTML file. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the slides below and navigate through them with your left and right arrow keys.\n\n View all slides in new window  Download PDF of all slides\n\n\n\nIntroduction\n\n\nWhat did we just learn?\n\n\nEthics of data analyitcs (a)\n\n\nEthics of data analytics (b)\n\n\nEthics of data analytics (c)\n\n\nEthics of storytelling (a)\n\n\nEthics of storytelling (b)\n\n\nEthics of storytelling (c)\n\n\nEthics of storytelling (d)\n\n\nCuriosity\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nFun fact: If you type ? (or shift + /) while going through the slides, you can see a list of special slide-specific commands."
+  },
+  {
+    "objectID": "content/14-content.html#videos",
+    "href": "content/14-content.html#videos",
+    "title": "Ethics, stories, and curiosity",
+    "section": "Videos",
+    "text": "Videos\nVideos for each section of the lecture are available at this YouTube playlist.\n\nIntroduction\nWhat did we just learn?\nEthics of data analyitcs (a)\nEthics of data analytics (b)\nEthics of data analytics (c)\nEthics of storytelling (a)\nEthics of storytelling (b)\nEthics of storytelling (c)\nEthics of storytelling (d)\nCuriosity\n\nYou can also watch the playlist (and skip around to different sections) here:"
+  },
+  {
+    "objectID": "news/2022-08-08_important-r-stuff.html",
+    "href": "news/2022-08-08_important-r-stuff.html",
+    "title": "Important R stuff",
+    "section": "",
+    "text": "From reading the syllabus you’ll notice that we’re using R in this class (though you can certainly use Stata too if you really want). R is free (!!), and highly sought after by employers, but it has a little bit of an initial learning curve. You’ll get the hang of it, though, I promise! I’m a certified RStudio instructor (see https://education.rstudio.com/trainers/), so I’ve been specially trained to teach statistical programming. Again, I promise that you’ll learn a ton.\nYou’ll be doing your stats work in RStudio this semester. While R and RStudio are free and open source, they can sometimes be tricky to install. To make life simpler, you can run RStudio in your browser without having to install anything (!!!). Over the course of the semester you’ll want to eventually install everything on your actual computer, since it’ll run faster there, but you won’t need to install anything to get started. I’ll e-mail you a link to join the class workspace.\nIn the meantime, you can also install everything on your actual computer if you follow these instructions (eventually you should do this—it’s best to run R on your own computer, but it’s totally fine to run everything at RStudio Cloud for the first few weeks)\nIf you have some free time over the next week and you feel like getting a head start, I would highly recommend going through a few of RStudio’s R Primers at https://rstudio.cloud/learn/primers. Don’t worry if you don’t have time to go through these introductory primers/tutorials! Your first problem set is essentially doing those primers (see here for the ones you’ll need to do), so you don’t have to get a head start now if you don’t want to.\nOnce again, I promise that you can do this and have a blast in this class!"
+  },
+  {
+    "objectID": "news/2022-08-08_welcome.html",
+    "href": "news/2022-08-08_welcome.html",
+    "title": "Welcome to class!",
+    "section": "",
+    "text": "Hello everyone!\nI’m Andrew Heiss, your professor for PMAP 8521 (Evaluation Research) this fall, and I’m so excited for the class! In this class you’ll learn all about causal inference, or how to legally claim causation with statistics. In your past stats courses you were always taught “correlation isn’t causation,” which is mostly true, except when it’s not. In this class you’ll get to legitimately make causal claims.\nWe’ll cover fun tools like directed acyclic graphs (DAGs), randomized controlled trials, difference-in-differences analysis, regression discontinuity analysis, and instrumental variables. You’ll also learn the statistical language R, which is free (which means you can keep using it after you graduate and not have to pay for really really expensive SPSS or Stata licenses). I’ve had former students get jobs because of the R part of this class—tons of organizations are looking for R skills nowadays.\nI have a few important announcements before class:\n\nWe are meeting in person, but as you’ll see in the syllabus (see the “Masking and vaccines” section there, I’m trying to take as many precautions as possible given the rapid spread of the BA.5 variant. For instance…\n…I’ve made the course a flipped course, which means you’ll do all the readings and watch the lectures on YouTube before class on Mondays. We’ll spend our class time answering questions, doing activities, and learning a lot of R together. This means that the bulk of the course material is fully online and asynchronous.\nBefore class, I’d love to get to know each you a little first, so I’ve created a quick survey to fill out. I’ve sent you a link to it via e-mail. Please take it at your earliest convenience.\nThe entire course is available at a special class website at https://evalf22.classes.andrewheiss.com/. Bookmark this site—it’ll be your best friend for the next semester. I only use iCollege for collecting your assignments, posting answer keys, posting a couple scanned book chapters, and offering the two exams (since it’s password protected). This website is the official source of dates and all other class information. Because it’s not part of iCollege, you’ll be able to reference it even after you graduate and lose access to GSU resources. You can even share it with others—it’s just a website!\nPlease read the main explanatory pages at the course website at your earliest convenience. The instructions and expectations for the class are divided across different pages, all accessible from the menu bar at the top of the site. Please read the main pages for the syllabus, schedule, content, assignments, and examples.\nWe’re using zero physical textbooks in this class. Every reading and book and piece of software in this class is 100% free (see the syllabus for more information about that).\n\nQuick background about me: I’m an assistant professor here at the Andrew Young School, where I’ve been teaching MPA/MPP microeconomics, program evaluation, and data visualization. I moved here from Utah in 2019, where I was a visiting professor of public management at the Marriott School of Business at Brigham Young University (BYU). While at BYU, I taught microeconomics, statistics, and data visualization (basically the same stuff I’m teaching now). I finished my PhD in public policy and political science from Duke in 2017, and before then I finished my MPA in nonprofit management from BYU in 2012.\nWhen I’m not teaching stats and evaluation, I research international nonprofits and political science. And when I’m not teaching or researching, I’m normally chilling at my house with my 6 (!!) kids (see https://www.heissatopia.com/ for photos and hilarious stories).\nAgain, I’m really excited to get started next week. This fall semester should be a blast!"
+  },
+  {
+    "objectID": "news/2022-08-15_announcements-updates.html",
+    "href": "news/2022-08-15_announcements-updates.html",
+    "title": "Announcements and updates",
+    "section": "",
+    "text": "One last thing!\nOver the course of the semester, I’ll be sending you lots of updates and announcements and FAQs based on your weekly check-ins.\nMy philosophy for this class is to let you maintain access to as much content as possible, which is why so little of the the class material is on iCollege.\nI will post all these announcements and e-mails at the “News section of the course website. This means that even after you finish the class and lose access to iCollege, and even after you graduate from GSU and lose access to your (gsu.edu?) e-mail address, you’ll still have a searchable archive of messages and FAQs from this class.\nI’ll let you know when there’s a new item in the news section in a few different ways:\n\nI’ll e-mail you a link to the newest message. I’ll use the e-mail address you have listed in PAWS—if you want me to use a different address, let me know and I’ll update my list,\nNew messages should post automatically to the #general channel in Slack\nIf you use an RSS feed reader (RIP Google Reader), you can subscribe to an RSS feed of the news section. There’s a link at the bottom of the news page.\n\nPhew. That should be it from me for a while. Remember to read the syllabus and the rest of the course website, answer the welcome survey, sign up for Slack, and join the RStudio.cloud workspace. Also, remember to take care of yourselves! I mean every word in the “Learning during a pandemic” section of the syllabus. This all sucks so much, and I will try my hardest to accommodate your needs throughout the semester.\nThanks!"
+  },
+  {
+    "objectID": "news/2022-08-21_first-day.html",
+    "href": "news/2022-08-21_first-day.html",
+    "title": "Plan for the first day of class",
+    "section": "",
+    "text": "Hi everyone!\nTomorrow’s the first day of class! Exciting!\nBeyond hoping that everyone is wearing a mask, I’ve structured the class in way that limits our exposure to each other as much as possible. As noted in the syllabus (https://evalf22.classes.andrewheiss.com/syllabus.html#course-structure), we’re using a flipped classroom this semester. What this means in practice is that you’ll do all the readings and watch asynchronous lecture videos before class meets on Mondays.\nOur in-person time will not involve lectures. Instead, it’ll be a more hands-on lab for working with R and answering the questions that come up from doing the readings and watching the lectures. That’s the point of the weekly check-in assignment (https://evalf22.classes.andrewheiss.com/assignment/weekly-check-in.html)—the only way this in-person time will be effective is if you do the readings + videos and ask questions in the weekly check-in.\nThe videos for the first day of class are live and ready to watch at https://evalf22.classes.andrewheiss.com/content/01-content.html (along with the readings). If possible, please watch them (and do the readings) before class on Monday so that we can start with the lab-like in-person time and get a good solid introduction to R and RStudio + answer the questions you have from the first session’s materials.\nIdeally, please try to submit the first weekly check-in on iCollege by tomorrow too so that we can have some good Q&A time during our in-person time. BUT no worries if not!\nIf you don’t have time to get through the materials before the first day, that’s totally fine—you can do it later and there’s no late penalty or anything for the first week, given that it is the first day of classes. But if you can, let’s get started!"
+  },
+  {
+    "objectID": "news/2022-08-22_getting-help.html",
+    "href": "news/2022-08-22_getting-help.html",
+    "title": "How to reach out for help",
+    "section": "",
+    "text": "Hi everyone!\nYou absolutely can (and should) reach out when you get stuck. I’m super responsive on Slack and e-mail. If you ask a question on the #help channel in Slack, others can help too. No question is too tricky or embarrassing, I promise. Computers are extraordinarily literal and tiny typos will often mess you up for a long time—I’ve lost countless time because of missing commas and misspelled words (curse you lenght()). Please feel comfortable reaching out.\n\nAsk early and often\nI’m a big believer in the 30 minute rule. If you’re stuck and not making progress on a task for 30 minutes, reach out for help from the community.\n\n\nBe nice\nOne of the great parts about the online R community is that the team at RStudio has actually hired people to help promote community norms. Like that’s their whole job—community evangelist (see @dataandme and @RachaelDempsey for instance). The R world is probably one of the nicest corners of the programming internet because of these norms—there’s an emphasis on helping beginners, being kind and respectful, and cheerfully helping as much as possible. Watch the #rstats hashtag on Twitter, look at the “r” tag on StackOverflow, and look at discussions at the RStudio Community and you’ll see kindness in action.\nThis was not always the case. 10ish years ago, before the RStudio people made a concerted effort to create community, the online R world was pretty mean and toxic, with forums run by a few really grumpy statisticians who’d belittle you if you asked a poorly worded question. It was awful. That kind of attitude often still persists in other languages (hooo boy try asking a beginner question about Python at StackOverflow 😬), but the R world has tried really hard to be welcoming.\nI embrace that attitude when teaching R, and I encourage you all to do the same. Reach out for help early and often. Do not suffer in silence. Do not spend hours and hours stuck on an issue before reaching out for help. If you feel comfortable, reach out publicly on the #help channel rather than a Slack DM so that others can help. This helps build and strengthen the community within our class and within the R community more broadly.\n\n\nAsk in a way that helps the answerer\nThere are a few easy guidelines to remember when asking for help:\n\nBe kind.\nTry asking questions with as complete information as possible. Rather than saying something like “my code isn’t working” and that’s it, provide more background (it’s hard to read your computer’s mind). Say specifically what you’re trying to do and provide code when possible. You can actually format R code on Slack if you click on the little lightning icon in the bottom left of the typing area and search for “text snippet”—that’ll open a dialog that will let you paste in text and add R syntax highlighting. You can also paste your code between triple backticks on Slack and it’ll format it in monospaced font (though not with the neat syntax highlighting that you get when using Slack’s text snippet thing):\n```\nggplot(blah) + geom_point()\n```\nYou can also take screenshots (use ⌘+shift+4 on macOS to save a screenshot to your Desktop, or ⌘+⌥+shift+4 to save a screenshot directly to the clipboard; use Windows+shift+S on Windows to save a screenshot directly to the clipboard). I’ve had people send photos from their phones too. The one issue with screenshots/photos is that it’s harder for people to get the code out of Slack and into RStudio on their computer to troubleshoot, since you can’t copy/paste from an image.\nTry making your question a reproducible example (or reprex). Reprexes are the best way to (1) get help online and (2) fix issues on your own.\nMaking a good reprex is tricky, but it’s a very valuable skill to know (regardless of programming language!). Here are some helpful resources for making them:\n\n What’s a reproducible example (reprex) and how do I do one?\n So you’ve been asked to make a reprex\n The reprex package\n\n\n\n\nDon’t suffer in silence\nAnd that’s it. Ask questions in ways that will help answerers answer them and be nice about it. When answering questions, be nice about it. Ask lots of questions. Answer lots of questions.\nOnce again, do not suffer in silence. I’ve had past students tell me that’s like the one thing they’ll remember from my classes—do not suffer in silence. I mean it, and I’ll keep saying it throughout the semester (because often in your past courses and degrees, you’ve been discouraged from reaching out or from building communities or whatever—that is not the case here)."
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Subscribe!\n\n\n\nYou can use a feed reader like Feedly or use an RSS-to-email service like Blogtrottr to subscribe to these updates and messages. I’ll also e-mail out links to them when there are new updates.\n\n\n\n RSS"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Prerequisites\nThis is a graduate-level course. Any graduate students in psychology can attend.\n\n\nClass Format\nWe will meet once a week throughout the semester.\n\nGuest Seminars. Students will attend a series of lectures during the semester. Lectures may introduce a recent methodological contribution or discuss a controversial and easily overlooked issue regarding the application or interpretation of statistics. Lectures will be given by guest speakers who are expert in the topic.\nTutorials. Students will learn skills to build reproducible and transparent research programs. These tutorials may teach students how to preregister their studies, run power analyses, and organize their code with Notebooks). Tutorials may be given by guest speakers who are expert in the topic.\n\n\n\nReadings\nMuch of the material needed for the course will be available on Canvas. I will also post it on the course website and Canvas.\n\n\nAttendance Policy\nAttendance and active participation in each class is required.\n\n\nTechnology\nIt is expected that you will bring your laptop to class. Please try to keep it class related.\n\n\nGrading\nGrades will be based on attendance. Come to the workshops/talks and engage with the material at the appropiate level, you will get an A.\n\n\nSchedule\nSee schedule"
+  },
+  {
+    "objectID": "syllabus.html#course-materials",
+    "href": "syllabus.html#course-materials",
+    "title": "Syllabus",
+    "section": "Course materials",
+    "text": "Course materials\n\nBooks\nWe’ll be working through two textbooks throughout the semester:\n::: {.grid} ::: {.g-col-6} ::: {.text-left} Richard McElreath, Statistical Rethinking: A Bayesian Course with Examples in R and Stan"
+  }
+]
