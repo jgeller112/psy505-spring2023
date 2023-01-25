@@ -22,8 +22,8 @@ Here's your roadmap for the semester!
     </ul>
 | Week  | Day     | Speaker                                                                                                                     | Details |
 |-------|---------|-----------------------------------------------------------------------------------------------------------------------------|---------|
-| 1     | 1/31/23 | Patrick Curran, Professor of   Psychology, University of North Carolina at Chapel Hill                                      |         |
-| 2     | 2/7/23  | Daniel Mirman, Associate Professor,   University of Edinburgh                                                               |         |
+| 1     | 1/31/23 | Patrick Curran, Professor of   Psychology, University of North Carolina at Chapel Hill                                      | [{{< fa book-open-reader >}}](/speakers/01-week-speaker.html)        |
+| 2     | 2/7/23  | Daniel Mirman, Associate Professor,   University of Edinburgh                                                               | [{{< fa book-open-reader >}}](/speakers/02-week-speaker.html)        |
 | 3     | 2/14/23 | No Speaker                                                                                                                  |         |
 | 4     | 2/21/23 | João Veríssimo, Assistant Professor   in Laboratory of Psycholinguistics, University of Lisbon                              |         |
 | 5     | 2/28/23 | Paul Bürkner, Junior Research Group   Leader, Bayesian Statistics, Cluster of Excellence SimTech, University of   Stuttgart |         |
