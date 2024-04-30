@@ -20,20 +20,20 @@ Here's your roadmap for the semester!
  <li><i class="fas fa-tv"></i> Slides and other class materials will be added on the day of class</li>
  <li><i class="fas fa-keyboard"></i> Assignments are due at noon on the day they are due (unless otherwise stated)</li>
     </ul>
-| Week  | Day     | Speaker                                                                                                                     | Details |
-|-------|---------|-----------------------------------------------------------------------------------------------------------------------------|---------|
-| 1     | 1/31/23 | Patrick Curran, Professor of   Psychology, University of North Carolina at Chapel Hill                                      | [{{< fa book-open-reader >}}](/speakers/01-week-speaker.html)        |
-| 2     | 2/7/23  | Daniel Mirman, Associate Professor,   University of Edinburgh                                                               | [{{< fa book-open-reader >}}](/speakers/02-week-speaker.html)        |
+| Week  | Day  | Speaker | Workshop/Talk |
+|---|---|---|---|
+| 1     | 1/31/23 |[Patrick Curran, Professor of   Psychology, University of North Carolina at Chapel Hill](/speakers/01-week-speaker.html)                                   | [{{< fa video >}}](https://drive.google.com/file/d/18PpOW0NU0JKF49PLLy5o88_Au2m1dl1t/view?usp=drive_link)        |
+| 2     | 2/7/23  | [Daniel Mirman, Associate Professor,   University of Edinburgh](/speakers/02-week-speaker.html)                                                             | [{{< fa video  >}}](https://drive.google.com/file/d/1Vi_tQyokRs9eNo8ydV8lT6eO5pYSLPqP/view?usp=drive_link)        |
 | 3     | 2/14/23 | No Speaker                                                                                                                  |         |
-| 4     | 2/21/23 | João Veríssimo, Assistant Professor   in Laboratory of Psycholinguistics, University of Lisbon                              |         |
-| 5     | 2/28/23 | Paul Bürkner, Junior Research Group   Leader, Bayesian Statistics, Cluster of Excellence SimTech, University of   Stuttgart |         |
-| 6     | 3/7/23  | Chelsea Parlett-Pelleriti, Assistant   Professor, Chapman University                                                        |         |
+| 4     | 2/21/23 | [João Veríssimo, Assistant Professor   in Laboratory of Psycholinguistics, University of Lisbon](/speakers/04-week-speaker.html)  | [{{< fa video  >}}](https://drive.google.com/file/d/1UXOdAcwUQ_DTH6apdR0qk4igkr93ZWsp/view?usp=drive_link)                           |         |
+| 5     | 2/28/23 | [Paul Bürkner, Junior Research Group   Leader, Bayesian Statistics, Cluster of Excellence SimTech, University of   Stuttgart](/speakers/05-week-speaker.html) |[{{< fa video  >}}](https://drive.google.com/file/d/1fgqfJT-NVmyivoyMRkt4R7XNs8QlWv76/view?usp=drive_link)        |
+| 6     | 3/7/23  | [Chelsea Parlett-Pelleriti, Assistant   Professor, Chapman University](/speakers/06-week-speaker.html)  | [{{< fa video  >}}](https://drive.google.com/file/d/1R2Ekggo0BxzmIYX-bHS-J_Sb8_POx2cf/view?usp=drive_link)                                                     |         |
 | 7     | 3/14/23 | No Speaker - Spring Break                                                                                                   |         |
-| 8     | 3/21/23 | Daniel S. Quintana, Senior   Researcher, University of Oslo                                                                 |         |
+| 8     | 3/21/23 | [Daniel S. Quintana, Senior   Researcher, University of Oslo](/speakers/08-week-speaker.html) |  [{{< fa video  >}}](https://drive.google.com/file/d/1e3v84Jry0dcQUtKotBCfuh5URtZ0eZ40/view?usp=drive_link)                                                              |         |
 | 9     | 3/28/23 | No Speaker                                                                                                                  |         |
 | 10    | 4/4/23  | Pablo Gomez, Associate Professor,   California State University, San Bernardino                                             |         |
 | 11    | 4/11/23 | No Speaker                                                                                                                  |         |
-| 12    | 4/18/23 |     Jaclyn Siegel, Postdoctoal Researcher, San Diego State University                                                       |         |
+| 12    | 4/18/23 | [Jaclyn Siegel, Postdoctoal Researcher, San Diego State University](/speakers/12-week-speaker.htm) |  [{{< fa video  >}}](https://drive.google.com/file/d/1pvw6KD6P4Yb-a0viPYrD4mtQhDg9bq6o/view?usp=drive_link)                                                     |         |
 | 13    | 4/25/23 | No Speaker                                                                                                                  |         |
 
 :::

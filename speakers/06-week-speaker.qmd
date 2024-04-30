@@ -1,0 +1,14 @@
+---
+title: "Week 6"
+subtitle: ""
+date: 2023-03-06
+toc: false
+---
+
+# [Chelsea Parlett-Pelleriti, Assistant   Professor, Chapman University](https://www.chapman.edu/our-faculty/chelsea-parlett)
+
+![](https://www.chapman.edu/our-faculty/files/small-photos/faculty/parlett_c.jpeg){fig-align="center"}
+
+## Bayesian Regression Models for Bounded Data (A Beta Solution)
+
+Researchers often have bounded data (data where there is a strict upper and lower bound) such as proportions, percents, accuracies, rates, or brier scores. But common models, such as linear regression, and not always well suited to model such data. Beta Regression, it’s extension of Zero-One-Inflated Beta Regression, and Ordered Beta Regression provide modeling frameworks for such bounded data. These models will be presented in a Bayesian Framework, and modifications and extensions (such as incorporating Item Response Theory model structure) will be suggested. The basic ideas behind cumulative logit, inflation, and logistic models will also be discussed.

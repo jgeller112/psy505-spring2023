@@ -1,0 +1,15 @@
+---
+title: "Week 1"
+subtitle: ""
+date: 2023-01-31
+toc: false
+---
+# [Patrick Curran, Professor of Psychology, University of North Carolina at Chapel Hill](https://psych.princeton.edu/event/patrick-curran-professor-psychology-university-north-carolina-chapel-hill)
+
+## The Challenge of Modeling Co-Developmental Processes over Time
+
+One of the most vexing challenges facing longitudinal researchers today is the statistical modeling of two or more behaviors as they unfold jointly over time. Although quantitative methodologists have studied these issues for more than half a century, no widely agreed-upon principled strategy exists to empirically analyze co-developmental processes. Indeed, the plethora of available options makes selecting a specific analytic approach both confusing and overwhelming. In this talk I argue that a key step in adjudicating among alternative modeling strategies is to embrace the concept of within- and between-person components of change over time. I begin by reviewing the disaggregation of effects in grouped data and extend these concepts to the study of change over time. I then compare and contrast alternative modeling strategies that capture these effects to varying degrees, and I conclude with three issues that can potentially help to guide best practice.
+
+[Reading](https://psych.princeton.edu/sites/psychology/files/The%20Challenge%20of%20Modeling%20Co-Developmental%20Processes%20over%20Time%20Curran%20%26%20Hancock%20%282021%29.pdf)
+
+

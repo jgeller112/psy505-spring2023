@@ -1,0 +1,14 @@
+---
+title: "Week 8"
+subtitle: ""
+date: 2023-03-21
+toc: false
+---
+
+# [Daniel S. Quintana, Senior   Researcher, University of Oslo](https://www.dsquintana.com/)
+
+![](https://psychology.princeton.edu/sites/g/files/toruqf1646/files/styles/freeform_750w/public/2022-09/daniel-quintana-foto-wes-tan.png?itok=9kwO9N0b){fig-align="center"}
+
+## Evaluating meta-analysis credibility by calculating study-level statistical power
+
+Meta-analysis is a popular approach in the psychological sciences for synthesizing data across studies. However, the credibility of meta-analysis outcomes depends on the evidential value of studies included in the body of evidence used for data synthesis. One important consideration for determining a study’s evidential value is the statistical power of the study’s design and statistical test combination for detecting hypothetical effect sizes of interest. This talk will provide a non-technical introduction to this issue and present the ‘metameta’ R package and web application, which Daniel developed for the straightforward evaluation of study-level statistical power for a range of hypothetical effect sizes. Daniel will demonstrate how to re-analyze data using information typically presented in meta-analysis forest plots or tables and how to use the ‘metameta’ package when reporting novel meta-analyses.

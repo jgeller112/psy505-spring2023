@@ -1,0 +1,20 @@
+---
+title: "Week 4"
+subtitle: ""
+date: 2023-02-21
+toc: false
+---
+
+# [João Veríssimo, Assistant Professor in Laboratory of Psycholinguistics, University of Lisbon](https://www.jverissimo.net/)
+
+![](https://psychology.princeton.edu/sites/g/files/toruqf1646/files/styles/freeform_750w/public/2023-02/verissimo-photo.jpg?itok=SA-kBK2A){fig-align="center"}
+
+## Keep it truly maximal: Excluding random slopes for covariates inflates Type I errors or reduces power
+
+Mixed-effects regression models that include fixed and random effects are widely used in the cognitive sciences, because they are particularly suited for the analysis of clustered data. However, deciding on an appropriate model specification is not always straightforward, because a model’s random-effects structure can be made more or less complex, with accompanying consequences for statistical inference. On the one hand, models that lack random slopes for an effect of interest (which capture variation across individuals or items) can produce artificially lowered standard errors and an increased rate of Type I errors (Barr et al., 2013). On the other hand, considerations of computational complexity or issues with model convergence are also reasonable justifications for fitting parsimonious models with simpler random-effects structures (Bates et al., 2015).
+
+In this talk, I examine two common simplifications of mixed-effects models: (i) including random slopes only for ‘critical’ (theory-relevant) predictors, but removing random slopes for ‘covariates’ (i.e., those control predictors that correlate with the effects of interest); and (ii) removing ‘random-correlation’ parameters, which estimate correlations between random effects.
+
+In a series of frequentist and Bayesian simulations, I show that models that fail to include random slopes for covariates show inflated Type I error rates or decreased power―depending on their correlational structure―but they almost never achieve the Type I nominal rate. In addition, models that exclude random-correlation parameters also commonly lead to increases in Type I errors. This is the case even for models for which the simplifications produce better models on the basis of information criteria.
+
+I conclude with two specific recommendations: (i) mixed-effects models should be kept truly maximal, in the sense that all possible random effects should be estimated; (ii) in cases where simpler models are needed or desirable, I provide a well-performing alternative, which is based on the residualisation of random effects.

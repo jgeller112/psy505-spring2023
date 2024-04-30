@@ -1,0 +1,16 @@
+---
+title: "Week 2"
+subtitle: ""
+date: 2023-02-07
+toc: false
+---
+# [Daniel Mirman, Senior Lecturer, The University of Edinburgh](https://psych.princeton.edu/event/daniel-mirman-senior-lecturer-university-edinburgh)
+
+## Everything Everywhere All at Once: Why and How to Use Multiverse Analysis
+
+There are usually many different ways to test a hypothesis, even within a single data set. This analysis flexibility has been framed as a problem of "questionable research practices" or "p-hacking". Pre-registering an analysis plan can remove this flexibility, but there is often more than one right way to analyse the data; when there are multiple equally valid approaches, pre-registering just one analysis strategy can miss important aspects of the data. An alternative to pre-registering a single analysis is to conduct – and report – the full set of reasonable analyses. This approach, called “multiverse analysis” (Steegen et al., 2016), is gaining traction but can be challenging to implement and report, and is sometimes misinterpreted. I will discuss how to align the design of a multiverse analysis with your research goals and strategies for reporting and interpreting the results.
+
+[Steegen et al., 2016](https://psych.princeton.edu/sites/psychology/files/Increasing%20Transparency%20Through%20a%20Multiverse%20Analysis%20Steegen%20etal%202016.pdf)
+
+[Silberzahn et al., 2018](https://psych.princeton.edu/sites/psychology/files/Corrigendum%20Many%20Analysts%20One%20Data%20Set%20Silberzahn%20etal%202018.pdf)
+

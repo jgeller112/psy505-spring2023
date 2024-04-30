@@ -18,7 +18,7 @@
     "href": "schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "Here’s your roadmap for the semester!\n\n\n Readings should be completed before each class session\n\n\n Slides and other class materials will be added on the day of class\n\n\n Assignments are due at noon on the day they are due (unless otherwise stated)\n\n\n\n\n\n\n\n\n\n\n\nWeek\nDay\nSpeaker\nDetails\n\n\n\n\n1\n1/31/23\nPatrick Curran, Professor of Psychology, University of North Carolina at Chapel Hill\n\n\n\n2\n2/7/23\nDaniel Mirman, Associate Professor, University of Edinburgh\n\n\n\n3\n2/14/23\nNo Speaker\n\n\n\n4\n2/21/23\nJoão Veríssimo, Assistant Professor in Laboratory of Psycholinguistics, University of Lisbon\n\n\n\n5\n2/28/23\nPaul Bürkner, Junior Research Group Leader, Bayesian Statistics, Cluster of Excellence SimTech, University of Stuttgart\n\n\n\n6\n3/7/23\nChelsea Parlett-Pelleriti, Assistant Professor, Chapman University\n\n\n\n7\n3/14/23\nNo Speaker - Spring Break\n\n\n\n8\n3/21/23\nDaniel S. Quintana, Senior Researcher, University of Oslo\n\n\n\n9\n3/28/23\nNo Speaker\n\n\n\n10\n4/4/23\nPablo Gomez, Associate Professor, California State University, San Bernardino\n\n\n\n11\n4/11/23\nNo Speaker\n\n\n\n12\n4/18/23\nJaclyn Siegel, Postdoctoal Researcher, San Diego State University\n\n\n\n13\n4/25/23\nNo Speaker"
+    "text": "Here’s your roadmap for the semester!\n\n\n Readings should be completed before each class session\n\n\n Slides and other class materials will be added on the day of class\n\n\n Assignments are due at noon on the day they are due (unless otherwise stated)\n\n\n\n\n\nWeek\nDay\nSpeaker\nWorkshop/Talk\n\n\n\n\n1\n1/31/23\nPatrick Curran, Professor of Psychology, University of North Carolina at Chapel Hill\n\n\n\n2\n2/7/23\nDaniel Mirman, Associate Professor, University of Edinburgh\n\n\n\n3\n2/14/23\nNo Speaker\n\n\n\n4\n2/21/23\nJoão Veríssimo, Assistant Professor in Laboratory of Psycholinguistics, University of Lisbon\n\n\n\n5\n2/28/23\nPaul Bürkner, Junior Research Group Leader, Bayesian Statistics, Cluster of Excellence SimTech, University of Stuttgart\n\n\n\n6\n3/7/23\nChelsea Parlett-Pelleriti, Assistant Professor, Chapman University\n\n\n\n7\n3/14/23\nNo Speaker - Spring Break\n\n\n\n8\n3/21/23\nDaniel S. Quintana, Senior Researcher, University of Oslo\n\n\n\n9\n3/28/23\nNo Speaker\n\n\n\n10\n4/4/23\nPablo Gomez, Associate Professor, California State University, San Bernardino\n\n\n\n11\n4/11/23\nNo Speaker\n\n\n\n12\n4/18/23\nJaclyn Siegel, Postdoctoal Researcher, San Diego State University\n\n\n\n13\n4/25/23\nNo Speaker"
   },
   {
     "objectID": "content/01-content.html",
@@ -453,5 +453,117 @@
     "title": "Syllabus",
     "section": "Course materials",
     "text": "Course materials\n\nBooks\nWe’ll be working through two textbooks throughout the semester:\n::: {.grid} ::: {.g-col-6} ::: {.text-left} Richard McElreath, Statistical Rethinking: A Bayesian Course with Examples in R and Stan"
+  },
+  {
+    "objectID": "01-week-speaker.html",
+    "href": "01-week-speaker.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "One of the most vexing challenges facing longitudinal researchers today is the statistical modeling of two or more behaviors as they unfold jointly over time. Although quantitative methodologists have studied these issues for more than half a century, no widely agreed-upon principled strategy exists to empirically analyze co-developmental processes. Indeed, the plethora of available options makes selecting a specific analytic approach both confusing and overwhelming. In this talk I argue that a key step in adjudicating among alternative modeling strategies is to embrace the concept of within- and between-person components of change over time. I begin by reviewing the disaggregation of effects in grouped data and extend these concepts to the study of change over time. I then compare and contrast alternative modeling strategies that capture these effects to varying degrees, and I conclude with three issues that can potentially help to guide best practice.\nReading"
+  },
+  {
+    "objectID": "speakers/01-week-speaker.html",
+    "href": "speakers/01-week-speaker.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "One of the most vexing challenges facing longitudinal researchers today is the statistical modeling of two or more behaviors as they unfold jointly over time. Although quantitative methodologists have studied these issues for more than half a century, no widely agreed-upon principled strategy exists to empirically analyze co-developmental processes. Indeed, the plethora of available options makes selecting a specific analytic approach both confusing and overwhelming. In this talk I argue that a key step in adjudicating among alternative modeling strategies is to embrace the concept of within- and between-person components of change over time. I begin by reviewing the disaggregation of effects in grouped data and extend these concepts to the study of change over time. I then compare and contrast alternative modeling strategies that capture these effects to varying degrees, and I conclude with three issues that can potentially help to guide best practice.\nReading"
+  },
+  {
+    "objectID": "speakers/02-week-speaker.html",
+    "href": "speakers/02-week-speaker.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "There are usually many different ways to test a hypothesis, even within a single data set. This analysis flexibility has been framed as a problem of “questionable research practices” or “p-hacking”. Pre-registering an analysis plan can remove this flexibility, but there is often more than one right way to analyse the data; when there are multiple equally valid approaches, pre-registering just one analysis strategy can miss important aspects of the data. An alternative to pre-registering a single analysis is to conduct – and report – the full set of reasonable analyses. This approach, called “multiverse analysis” (Steegen et al., 2016), is gaining traction but can be challenging to implement and report, and is sometimes misinterpreted. I will discuss how to align the design of a multiverse analysis with your research goals and strategies for reporting and interpreting the results.\nSteegen et al., 2016\nSilberzahn et al., 2018"
+  },
+  {
+    "objectID": "speakers/01-week-speaker.html#the-challenge-of-modeling-co-developmental-processes-over-time",
+    "href": "speakers/01-week-speaker.html#the-challenge-of-modeling-co-developmental-processes-over-time",
+    "title": "Week 1",
+    "section": "",
+    "text": "One of the most vexing challenges facing longitudinal researchers today is the statistical modeling of two or more behaviors as they unfold jointly over time. Although quantitative methodologists have studied these issues for more than half a century, no widely agreed-upon principled strategy exists to empirically analyze co-developmental processes. Indeed, the plethora of available options makes selecting a specific analytic approach both confusing and overwhelming. In this talk I argue that a key step in adjudicating among alternative modeling strategies is to embrace the concept of within- and between-person components of change over time. I begin by reviewing the disaggregation of effects in grouped data and extend these concepts to the study of change over time. I then compare and contrast alternative modeling strategies that capture these effects to varying degrees, and I conclude with three issues that can potentially help to guide best practice.\nReading"
+  },
+  {
+    "objectID": "speakers/02-week-speaker.html#everything-everywhere-all-at-once-why-and-how-to-use-multiverse-analysis",
+    "href": "speakers/02-week-speaker.html#everything-everywhere-all-at-once-why-and-how-to-use-multiverse-analysis",
+    "title": "Week 2",
+    "section": "",
+    "text": "There are usually many different ways to test a hypothesis, even within a single data set. This analysis flexibility has been framed as a problem of “questionable research practices” or “p-hacking”. Pre-registering an analysis plan can remove this flexibility, but there is often more than one right way to analyse the data; when there are multiple equally valid approaches, pre-registering just one analysis strategy can miss important aspects of the data. An alternative to pre-registering a single analysis is to conduct – and report – the full set of reasonable analyses. This approach, called “multiverse analysis” (Steegen et al., 2016), is gaining traction but can be challenging to implement and report, and is sometimes misinterpreted. I will discuss how to align the design of a multiverse analysis with your research goals and strategies for reporting and interpreting the results.\nSteegen et al., 2016\nSilberzahn et al., 2018"
+  },
+  {
+    "objectID": "speakers/04-week-speaker.html",
+    "href": "speakers/04-week-speaker.html",
+    "title": "Week 4",
+    "section": "",
+    "text": "Mixed-effects regression models that include fixed and random effects are widely used in the cognitive sciences, because they are particularly suited for the analysis of clustered data. However, deciding on an appropriate model specification is not always straightforward, because a model’s random-effects structure can be made more or less complex, with accompanying consequences for statistical inference. On the one hand, models that lack random slopes for an effect of interest (which capture variation across individuals or items) can produce artificially lowered standard errors and an increased rate of Type I errors (Barr et al., 2013). On the other hand, considerations of computational complexity or issues with model convergence are also reasonable justifications for fitting parsimonious models with simpler random-effects structures (Bates et al., 2015).\nIn this talk, I examine two common simplifications of mixed-effects models: (i) including random slopes only for ‘critical’ (theory-relevant) predictors, but removing random slopes for ‘covariates’ (i.e., those control predictors that correlate with the effects of interest); and (ii) removing ‘random-correlation’ parameters, which estimate correlations between random effects.\nIn a series of frequentist and Bayesian simulations, I show that models that fail to include random slopes for covariates show inflated Type I error rates or decreased power―depending on their correlational structure―but they almost never achieve the Type I nominal rate. In addition, models that exclude random-correlation parameters also commonly lead to increases in Type I errors. This is the case even for models for which the simplifications produce better models on the basis of information criteria.\nI conclude with two specific recommendations: (i) mixed-effects models should be kept truly maximal, in the sense that all possible random effects should be estimated; (ii) in cases where simpler models are needed or desirable, I provide a well-performing alternative, which is based on the residualisation of random effects."
+  },
+  {
+    "objectID": "speakers/04-week-speaker.html#keep-it-truly-maximal-excluding-random-slopes-for-covariates-inflates-type-i-errors-or-reduces-power",
+    "href": "speakers/04-week-speaker.html#keep-it-truly-maximal-excluding-random-slopes-for-covariates-inflates-type-i-errors-or-reduces-power",
+    "title": "Week 4",
+    "section": "",
+    "text": "Mixed-effects regression models that include fixed and random effects are widely used in the cognitive sciences, because they are particularly suited for the analysis of clustered data. However, deciding on an appropriate model specification is not always straightforward, because a model’s random-effects structure can be made more or less complex, with accompanying consequences for statistical inference. On the one hand, models that lack random slopes for an effect of interest (which capture variation across individuals or items) can produce artificially lowered standard errors and an increased rate of Type I errors (Barr et al., 2013). On the other hand, considerations of computational complexity or issues with model convergence are also reasonable justifications for fitting parsimonious models with simpler random-effects structures (Bates et al., 2015).\nIn this talk, I examine two common simplifications of mixed-effects models: (i) including random slopes only for ‘critical’ (theory-relevant) predictors, but removing random slopes for ‘covariates’ (i.e., those control predictors that correlate with the effects of interest); and (ii) removing ‘random-correlation’ parameters, which estimate correlations between random effects.\nIn a series of frequentist and Bayesian simulations, I show that models that fail to include random slopes for covariates show inflated Type I error rates or decreased power―depending on their correlational structure―but they almost never achieve the Type I nominal rate. In addition, models that exclude random-correlation parameters also commonly lead to increases in Type I errors. This is the case even for models for which the simplifications produce better models on the basis of information criteria.\nI conclude with two specific recommendations: (i) mixed-effects models should be kept truly maximal, in the sense that all possible random effects should be estimated; (ii) in cases where simpler models are needed or desirable, I provide a well-performing alternative, which is based on the residualisation of random effects."
+  },
+  {
+    "objectID": "speakers/05-week-speaker.html",
+    "href": "speakers/05-week-speaker.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "#Chelsea Parlett-Pelleriti, Assistant Professor, Chapman University"
+  },
+  {
+    "objectID": "speakers/05-week-speaker.html#an-introduction-to-bayesian-statistics",
+    "href": "speakers/05-week-speaker.html#an-introduction-to-bayesian-statistics",
+    "title": "Week 5",
+    "section": "",
+    "text": "The Bayesian approach to data analysis provides a powerful way to handle uncertainty in all observations, model parameters, and model structure using probability theory. For a long time, its practical applicability was limited due to the lack of efficient estimation algorithms and general computing power. However, both have changed in the past few decades. Nowadays, Bayesian statistics (also known as probabilistic machine learning) is highly relevant in almost all quantitative sciences. When using Bayesian methods, analysts benefit from the ability to express and fit highly complex models, incorporate prior information when available, naturally obtain uncertainties estimates, and easily propagate those uncertainties to push-forward quantities such as (posterior) predictions. In this talk, I will give a brief introduction to Bayesian statistics, highlight its advantages and disadvantages and provide a look into the future of Bayesian statistics."
+  },
+  {
+    "objectID": "speakers/06-week-speaker.html",
+    "href": "speakers/06-week-speaker.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "Researchers often have bounded data (data where there is a strict upper and lower bound) such as proportions, percents, accuracies, rates, or brier scores. But common models, such as linear regression, and not always well suited to model such data. Beta Regression, it’s extension of Zero-One-Inflated Beta Regression, and Ordered Beta Regression provide modeling frameworks for such bounded data. These models will be presented in a Bayesian Framework, and modifications and extensions (such as incorporating Item Response Theory model structure) will be suggested. The basic ideas behind cumulative logit, inflation, and logistic models will also be discussed."
+  },
+  {
+    "objectID": "speakers/06-week-speaker.html#bayesian-regression-models-for-bounded-data-a-beta-solution",
+    "href": "speakers/06-week-speaker.html#bayesian-regression-models-for-bounded-data-a-beta-solution",
+    "title": "Week 6",
+    "section": "",
+    "text": "Researchers often have bounded data (data where there is a strict upper and lower bound) such as proportions, percents, accuracies, rates, or brier scores. But common models, such as linear regression, and not always well suited to model such data. Beta Regression, it’s extension of Zero-One-Inflated Beta Regression, and Ordered Beta Regression provide modeling frameworks for such bounded data. These models will be presented in a Bayesian Framework, and modifications and extensions (such as incorporating Item Response Theory model structure) will be suggested. The basic ideas behind cumulative logit, inflation, and logistic models will also be discussed."
+  },
+  {
+    "objectID": "speakers/05-week-speaker.html#bayesian-regression-models-for-bounded-data-a-beta-solution",
+    "href": "speakers/05-week-speaker.html#bayesian-regression-models-for-bounded-data-a-beta-solution",
+    "title": "Week 6",
+    "section": "Bayesian Regression Models for Bounded Data (A Beta Solution)",
+    "text": "Bayesian Regression Models for Bounded Data (A Beta Solution)\nResearchers often have bounded data (data where there is a strict upper and lower bound) such as proportions, percents, accuracies, rates, or brier scores. But common models, such as linear regression, and not always well suited to model such data. Beta Regression, it’s extension of Zero-One-Inflated Beta Regression, and Ordered Beta Regression provide modeling frameworks for such bounded data. These models will be presented in a Bayesian Framework, and modifications and extensions (such as incorporating Item Response Theory model structure) will be suggested. The basic ideas behind cumulative logit, inflation, and logistic models will also be discussed."
+  },
+  {
+    "objectID": "speakers/08-week-speaker.html",
+    "href": "speakers/08-week-speaker.html",
+    "title": "Week 8",
+    "section": "",
+    "text": "Meta-analysis is a popular approach in the psychological sciences for synthesizing data across studies. However, the credibility of meta-analysis outcomes depends on the evidential value of studies included in the body of evidence used for data synthesis. One important consideration for determining a study’s evidential value is the statistical power of the study’s design and statistical test combination for detecting hypothetical effect sizes of interest. This talk will provide a non-technical introduction to this issue and present the ‘metameta’ R package and web application, which Daniel developed for the straightforward evaluation of study-level statistical power for a range of hypothetical effect sizes. Daniel will demonstrate how to re-analyze data using information typically presented in meta-analysis forest plots or tables and how to use the ‘metameta’ package when reporting novel meta-analyses."
+  },
+  {
+    "objectID": "speakers/08-week-speaker.html#evaluating-meta-analysis-credibility-by-calculating-study-level-statistical-power",
+    "href": "speakers/08-week-speaker.html#evaluating-meta-analysis-credibility-by-calculating-study-level-statistical-power",
+    "title": "Week 8",
+    "section": "",
+    "text": "Meta-analysis is a popular approach in the psychological sciences for synthesizing data across studies. However, the credibility of meta-analysis outcomes depends on the evidential value of studies included in the body of evidence used for data synthesis. One important consideration for determining a study’s evidential value is the statistical power of the study’s design and statistical test combination for detecting hypothetical effect sizes of interest. This talk will provide a non-technical introduction to this issue and present the ‘metameta’ R package and web application, which Daniel developed for the straightforward evaluation of study-level statistical power for a range of hypothetical effect sizes. Daniel will demonstrate how to re-analyze data using information typically presented in meta-analysis forest plots or tables and how to use the ‘metameta’ package when reporting novel meta-analyses."
+  },
+  {
+    "objectID": "speakers/12-week-speaker.html",
+    "href": "speakers/12-week-speaker.html",
+    "title": "Week 12",
+    "section": "",
+    "text": "While there is increasing recognition of the value of qualitative research in psychology, qualitative methods remain elusive to many in the field. While quantitative methods conducted under a positivist paradigm attempt to maximize objectivity in the research process, many qualitative methods are conducted through the lens of post-positivism or interpretivism/constructivism. Under these paradigms, subjectivity is not viewed as a problem to be eliminated, but rather as an inherent part of all research and important to be considered at all stages of the research process. This talk will review fundamental principles in the philosophy of science and discuss the importance of positionality and reflexivity in qualitative (and perhaps even quantitative!) scholarship. The talk will also cover the benefits and challenges of writing effective positionality statements, particularly for those with marginalized identities and experiences, as well as strategies for practicing reflexivity in qualitative research."
+  },
+  {
+    "objectID": "speakers/12-week-speaker.html#positionality-and-reflexivity-in-qualitative-research",
+    "href": "speakers/12-week-speaker.html#positionality-and-reflexivity-in-qualitative-research",
+    "title": "Week 12",
+    "section": "",
+    "text": "While there is increasing recognition of the value of qualitative research in psychology, qualitative methods remain elusive to many in the field. While quantitative methods conducted under a positivist paradigm attempt to maximize objectivity in the research process, many qualitative methods are conducted through the lens of post-positivism or interpretivism/constructivism. Under these paradigms, subjectivity is not viewed as a problem to be eliminated, but rather as an inherent part of all research and important to be considered at all stages of the research process. This talk will review fundamental principles in the philosophy of science and discuss the importance of positionality and reflexivity in qualitative (and perhaps even quantitative!) scholarship. The talk will also cover the benefits and challenges of writing effective positionality statements, particularly for those with marginalized identities and experiences, as well as strategies for practicing reflexivity in qualitative research."
   }
 ]

@@ -1,0 +1,14 @@
+---
+title: "Week 12"
+subtitle: ""
+date: 2023-04-18
+toc: false
+---
+
+# [Jaclyn Siegel, NORC](https://www.jaclynasiegel.com/)
+
+![](https://psychology.princeton.edu/sites/g/files/toruqf1646/files/styles/freeform_750w/public/2023-01/jaclynsiegel.jpg?itok=_GAS3kT4){fig-align="center"}
+
+## Positionality and reflexivity in qualitative research
+
+While there is increasing recognition of the value of qualitative research in psychology, qualitative methods remain elusive to many in the field. While quantitative methods conducted under a positivist paradigm attempt to maximize objectivity in the research process, many qualitative methods are conducted through the lens of post-positivism or interpretivism/constructivism. Under these paradigms, subjectivity is not viewed as a problem to be eliminated, but rather as an inherent part of all research and important to be considered at all stages of the research process. This talk will review fundamental principles in the philosophy of science and discuss the importance of positionality and reflexivity in qualitative (and perhaps even quantitative!) scholarship. The talk will also cover the benefits and challenges of writing effective positionality statements, particularly for those with marginalized identities and experiences, as well as strategies for practicing reflexivity in qualitative research.
